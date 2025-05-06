@@ -1,0 +1,10 @@
+---
+title: "Assignment2"
+author: "Janhavi Bayanwar"
+format: html
+editor: visual
+---
+
+## Example 
+
+This is a sample example.qmd file
