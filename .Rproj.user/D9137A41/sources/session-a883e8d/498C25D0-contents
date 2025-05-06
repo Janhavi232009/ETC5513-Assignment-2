@@ -9,4 +9,8 @@ editor: visual
 
 This is a sample example.qmd file
 
+<<<<<<< HEAD
 The line adds changes in the file for main branch
+=======
+A line has been added to represent changes in the file on testbranch
+>>>>>>> testbranch
